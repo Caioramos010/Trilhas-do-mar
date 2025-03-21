@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&display=swap');
+
+
+header{
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    gap: 175px;
+    height: 80px;
+    background-color: #F1FAEE;
+    
+    align-items: center;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    font-size: 27px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    text-shadow: 60px -16 teal;
+    gap: 120px;
+    font-weight: 500;
+}
+.item-nav{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    font-size: 35px;
+    font-family: "Big Shoulders", sans-serif;
+
+}
+.item-nav:hover{
+    transition: 0.5s;
+    scale: 1.1;
+    cursor: pointer;
+
+}
+
+.img-anchor{
+    padding-top: 60px;
+}
+
+.button-whats{
+    display: flex;
+    align-items: center;
+
+    font-size: 22px;
+    padding: 10px 10px;
+    background-color: #2A9D8F;
+    height: 75%;
+    width: 325px;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+.button-whats:hover{
+    transition: 0.5s;
+    scale: 1.05;
+    cursor: pointer;
+
+}
+.button-whats img{
+    display: block;
+}
+.div-button-whats{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}

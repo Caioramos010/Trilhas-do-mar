@@ -1,0 +1,107 @@
+/* Container do card expandido */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.section-toggleCard {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5); /* Fundo translúcido */
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container-toggleCard {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 80%;
+    max-height: 80%;
+    overflow: auto;
+
+  }
+  
+  .header-toggleCard {
+    position: sticky; /* Fixa o header ao topo do container pai */
+    top: 0; /* Fica no topo do container */
+    width: 100%; /* Cobre toda a largura do container */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Espaçamento uniforme entre os elementos */
+    align-items: center; /* Alinha os itens verticalmente */
+    background-color: white; /* Fundo branco */
+    padding: 20px 0; 
+    
+    z-index: 10; /* Fica acima dos outros elementos do container */
+    border-radius: 10px 10px 0 0; /* Apenas os cantos superiores arredondados */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.header-toggleCard h2 {
+    padding-left: 30px;
+    font-size: 35px; /* Tamanho da fonte */
+    font-weight: 400; /* Espessura da fonte */
+    font-family: "Raleway", sans-serif; /* Fonte personalizada */
+    margin: 0; /* Remove margens */
+    flex-grow: 1; /* Faz o texto ocupar espaço disponível */
+    text-align: left; /* Centraliza o texto */
+}
+
+.close-btn {
+    width: auto; /* Ajusta a largura ao conteúdo */
+    background-color: red;
+    margin-right: 30px;
+
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.close-btn:hover {
+    background-color: darkred;
+}
+  
+  .close-btn:hover {
+    background-color: darkred;
+  }
+  
+  .load-more-btn {
+    padding-top: 25px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 15px;
+  }
+  
+  .load-more-btn:hover {
+    background-color: #45a049;
+  }
+  
+  .cards-container {
+    display: grid;
+    margin: 30px;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 15px;
+  }
+  
+  .img-card {
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px; 
+    overflow: hidden;
+  }
+  
+  .img-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  

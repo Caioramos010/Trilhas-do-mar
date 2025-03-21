@@ -1,0 +1,75 @@
+c50199503ea84c87f9e7f59b87a26774190be39d
+6265208d2745b7f98c4528703b80cab5fa610876
+2eda244fee48c3644582ed3918be05e5d929cbf1
+665c366dab5dc9ea7074f3ba36db89b74a330538 
+aa7ff517e544cd3127d3fb09a5f3a49b73547b84 .gitignore
+58beeaccd87e230076cab531b8f418f40b6d1aeb README.md
+93a7348570d2cd539fa03cbeca7a3fe57014fbf2 package-lock.json
+17bea54b4cba13b6da964045272780fc72dcd850 package.json
+8e29b36dea7f04ae8729d8b33ecc05c3c9b0fe46 public
+a11777cc471a4344702741ab1c8a588998b1311a public/favicon.ico
+aa069f27cbd9d53394428171c3989fd03db73c76 public/index.html
+fc44b0a3796c0e0a64c3d858ca038bd4570465d9 public/logo192.png
+a4e47a6545bc15971f8f63fba70e4013df88a664 public/logo512.png
+080d6c77ac21bb2ef88a6992b2b73ad93daaca92 public/manifest.json
+e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e public/robots.txt
+e7d25daa4602ccb3cfb894b70cff2613cb88c5c0 src
+4f296b24d41c2dcf93cb45d09e7ae728a5086cd4 src/App.css
+0fcc350678df972e05eb8f624b1e87ba6cc1b5c3 src/App.js
+1a0ffeb6c6cb2f83aebaa5262fd2d67e9f330039 src/Initial-Page
+46d0d25af24b31e27a45acd23903277df59e0687 src/Initial-Page/action-call
+5c0cd7ff9dfff07a902baefe1fec2031d0c23526 src/Initial-Page/action-call/Call.css
+670daf4bd281d986fa243bdf8887313749198fd7 src/Initial-Page/action-call/Call.js
+352395a531c8df6743b1795485545591da202107 src/Initial-Page/action-call/Rote.js
+22ed194a38a37e408636f7155774c930e612bda3 src/Initial-Page/footer
+2d10cf5123ae92e9b781f437016e475e510d8296 src/Initial-Page/footer/Footer.css
+06a2e2af14cc04221523176535260ca26288c1a6 src/Initial-Page/footer/Footer.js
+f9305264c1b64370f68c4a95727bf08656579cb8 src/Initial-Page/footer/imgs
+5c9d44d8ffd2a8e2da2809eedadccc53da032590 src/Initial-Page/footer/imgs/Imagem do WhatsApp de 2024-09-11 à(s) 10.18.18_17cdcf04 1.png
+441cbb9687a34ae34f816756d6da63db93576e28 src/Initial-Page/footer/imgs/Imagem do WhatsApp de 2024-09-11 à(s) 11.17.46_84ad0519 1.png
+2ea8b2bd6de03da8d239a89a05cdd1b2567fb00e src/Initial-Page/footer/imgs/Imagem do WhatsApp de 2024-09-11 à(s) 11.17.46_84ad0519 2.png
+3880b0ce79184e87d450c4e98c408c4a3a01f22c src/Initial-Page/footer/imgs/Imagem do WhatsApp de 2024-09-16 à(s) 13.27.41_8e403362.png
+c20cb17dff26c13a3a4c6389d7d05d44972a3230 src/Initial-Page/footer/imgs/face.png
+d81b50dc81ac9d59134d969f3930d87f5b7ab96d src/Initial-Page/footer/imgs/image 5.png
+5de79521be1ac9f3347026c67d6c3d45fbc730a0 src/Initial-Page/footer/imgs/insta.png
+65e71751fdbe710ff0d60678e7501991a43a5c5f src/Initial-Page/footer/imgs/trip.png
+ae4c1f01657e2b2b4445ff2d7f5c11680bcaa502 src/Initial-Page/footer/imgs/whats.png
+e090ef5428af5d1a2f2fe4b9bb95a5928b5ff833 src/Initial-Page/header
+ac0d6b1166cdf2979da538b56c1b6e02ab00c78a src/Initial-Page/header/Header.css
+99c62b212977910ee94e00e16e3c531f2c00e899 src/Initial-Page/header/Header.js
+7f4a5d6328e5f156cd444317bd72ff3b0419ee2b src/Initial-Page/header/imgs
+6e7b6dac37bdf54a07ed3823d155f161fb9697f2 src/Initial-Page/header/imgs/anchor.png
+cc46d07587d5f89727e16ac6be14e7a305138021 src/Initial-Page/header/imgs/boat.png
+19bb67716cdec50697acf47c83ead8720348d5d6 src/Initial-Page/sec-video
+1b948c25102545324c516cd103cf90dc67109a83 src/Initial-Page/sec-video/Video.css
+9d849f45e06b4142cc67108e171e119b334c7376 src/Initial-Page/sec-video/Video.js
+6424a357b72ccc9df1e9eecb40f31beb418df63f src/Initial-Page/sec-video/Video.mp4
+8dac641be62818327f1d1f10bb5859f92f310e73 src/Initial-Page/section-1
+6cec88b7b9a689d37e01a07508b3dc17d40ce85a src/Initial-Page/section-1/Section-1.css
+513dd1fe124609e85cb47509de5967b98b3bd7ee src/Initial-Page/section-1/Section-1.js
+638f9b4bf74a7c01e59a351758fafdf5f8bbdec9 src/Initial-Page/section-1/ToggleCard.css
+f86d2742f2ddc02f63e2af51f15f2133c486d116 src/Initial-Page/section-1/ToggleCard.js
+01cf447cdff2643c3d6bc629152526644c18e10c src/Initial-Page/section-1/imgs
+bbb0c966abe2bfef9325059c167a3f290dfd44b9 src/Initial-Page/section-1/imgs/Lagoinha.png
+c848a0b10d4eba90101091a4debf285d0c142599 src/Initial-Page/section-2
+5a900048849e9b9c12b2c9223d6f8d1d56a07364 src/Initial-Page/section-2/Section-2.css
+98fe379f7ff52dae4b831d793addd234c7198600 src/Initial-Page/section-2/Section-2.js
+404f052b64997c188613c5eda1cc48866bf3c34b src/Initial-Page/section-2/imgs
+cc47794cf8783f4c9aa810a857d4f2589bdaa743 src/Initial-Page/section-2/imgs/boat.png
+6d6163f8f04633f75e303071210b680c27212437 src/Initial-Page/section-2/imgs/lem.png
+3aecbb5c52c1c290424ee5d7224d57a0c8224560 src/Initial-Page/section-2/imgs/rote.png
+67546d398cbfccbbfc9576e62ec81e6d92a7c5c6 src/Initial-Page/section-2/model-icon.js
+e3b9bc528b89526e1bcbef8387e63a2ed040fb28 src/Rotes
+e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 src/Rotes/RotesPg.css
+e82a40c8cf1a1fceaa2677e8e9a24e4a1eb38bc1 src/Rotes/RotesPg.js
+ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0 src/index.css
+d563c0fb10ba0e42724b21286eb546ee4e5734fc src/index.js
+9dfc1c058cebbef8b891c5062be6f31033d7d186 src/logo.svg
+5253d3ad9e6be6690549cb255f5952337b02401d src/reportWebVitals.js
+bf4dcafbc8f809190dccf53d1f5e4a0e80ee475a 
+71125659b9cec3ee3801241548ac2532ee71a013 .gitignore
+a199a12cacedbcd7701179a76e49c28695dae4e1 
+3a4e7a4bc7f7f0da9d9f558dfab91dcaa5f39f42 .gitignore
+4d47b58c89ebde52d50cdb23c792bb2bed803c3d src
+0249ef9805869e1a56ae98b6ac5b0d94db5e1cb6 src/Initial-Page
+799454f1f42d268efd885782a4e27a2054c3ef26 src/Initial-Page/sec-video

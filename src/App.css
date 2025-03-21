@@ -1,0 +1,7 @@
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background: rgb(72,192,255);
+  background: linear-gradient(0deg, rgba(72,192,255,1) 0%, rgba(0,119,182,1) 100%);
+  overflow-x: hidden;
+  }

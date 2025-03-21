@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.sub-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    font-weight: 400;
+    background-color: #ffffff;
+}
+.footer{
+    padding-top: 75px;
+}
+.footer li{
+    width: 100%;
+    justify-content: center;
+    font-size: 20px;
+    list-style: none;
+}
+.footer ul{
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+.footer a{
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+.footer a:hover{
+    opacity: 80%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(175, 225, 254);
+    width: 100%;
+}
+.footer img{
+    opacity: 80%;
+    width: 40px;
+}
+.footer img:hover{
+    transition: 0.5;
+    opacity: 60%;
+    cursor: pointer;
+
+}
+footer nav{
+    width: 100%;
+
+}
+.social-container{
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    gap:20px
+}
+
+.contact-container h6{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0;
+}
+.contact-container p{
+    opacity: 80%;
+    margin: 0;
+}
