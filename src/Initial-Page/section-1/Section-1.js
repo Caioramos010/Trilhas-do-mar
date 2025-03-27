@@ -16,25 +16,25 @@ function Section1() {
 
   return (
     <section>
-    <div className="section">
+      <div className="section">
         <div className="section-container" onClick={cardOpen}>
-            <div className="container-text">
-                <h2>TRILHAS DO MAR</h2>
-                <p>
-                    Viva uma experiência única no mar, explorando lugares incríveis e
-                    cenários de tirar o fôlego. Nossas trilhas aquáticas te levam a
-                    paisagens inesquecíveis, onde cada momento se transforma em uma
-                    aventura extraordinária. Venha descobrir o oceano como você nunca
-                    imaginou.
-                </p>
-            </div>
-            <div className="container-img">
-                <img className="img-lagoinha" src={imgLagoinha} alt="Lagoinha" />
-            </div>
+          <div className="container-text">
+            <h2>TRILHAS DO MAR</h2>
+            <p>
+              Viva uma experiência única no mar, explorando lugares incríveis e
+              cenários de tirar o fôlego. Nossas trilhas aquáticas te levam a
+              paisagens inesquecíveis, onde cada momento se transforma em uma
+              aventura extraordinária. Venha descobrir o oceano como você nunca
+              imaginou.
+            </p>
+          </div>
+          <div className="container-img">
+            <img className="img-lagoinha" src={imgLagoinha} alt="Lagoinha" />
+          </div>
         </div>
         <p className="clique">Clique para visualizar mais imagens</p>
-    </div>
-    <ToggleCard isOpen={isOpen} onClose={cardClose}/>
+      </div>
+      <ToggleCard isOpen={isOpen} onClose={cardClose} />
     </section>
   );
 }
